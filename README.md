@@ -11,14 +11,14 @@
 
 Ссылка на вёрстку [https://serrjik.github.io/GoTrip/](https://serrjik.github.io/GoTrip/)
 
-### Примененные технологии в проекте:
+### Примененные в проекте технологии:
 
 * HTML5
 * CSS3
-* jQuery
-* Git, GitHub
+* JS, jQuery
+* слайдер Owl Carousel
 * Figma
-* Owl Carousel
+* GitHub, GitHub Pages
 
 ### Особенности:
 
